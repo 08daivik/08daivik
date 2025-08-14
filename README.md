@@ -17,11 +17,9 @@
 ---
 
 ## 🚀 Projects
-- **[Corporate Climber](https://github.com/08daivik)** – AI career path simulator using React, Spring Boot, PostgreSQL, Gemini AI  
-- **[Emoti-Sense](https://github.com/08daivik)** – Sentiment analysis web app using Python, Flask, and React  
+- **[Corporate Climber](https://github.com/08daivik/Corp-climber-frontend)** – AI career path simulator using React, Spring Boot, PostgreSQL, Gemini AI  
+- **[Emoti-Sense](https://github.com/08daivik/Emoti---sense)** – Sentiment analysis web app using Python, Flask, and React  
 - **Automatic Recipe Generator** – Generative AI with Google Gemini APIs  
-
+- **[Restaurant-Review(Dine-Right)](https://github.com/08daivik/Restaurant-Review-full-)** – Full-stack platform with Oracle DB, Java backend, and HTML/CSS/JS frontend
 ---
 
-## 📊 GitHub Stats
-![Daivik's GitHub stats](https://github-readme-stats.vercel.app/api?username=08daivik&show_icons=true&theme=tokyonight)
