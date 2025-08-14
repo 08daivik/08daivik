@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Daivik 👋
 
-<!--
-**08daivik/08daivik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Aspiring CSE Engineer | AI/ML Enthusiast | Full-Stack Developer  
+🎓 @ JSSSTU, Mysuru  
+📍 Mysuru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projects
+- **[Corporate Climber](https://github.com/08daivik)** – AI career path simulator using React, Spring Boot, PostgreSQL, Gemini AI  
+- **[Emoti-Sense](https://github.com/08daivik)** – Sentiment analysis web app using Python, Flask, and React  
+- **Automatic Recipe Generator** – Generative AI with Google Gemini APIs  
+
+---
+
+## 📊 GitHub Stats
+![Daivik's GitHub stats](https://github-readme-stats.vercel.app/api?username=08daivik&show_icons=true&theme=tokyonight)
